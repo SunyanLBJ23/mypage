@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello github Action I'm here 
-          i am fail
+          i am fail man
         </p>
         <a
           className="App-link"
